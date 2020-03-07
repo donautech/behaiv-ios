@@ -1,0 +1,22 @@
+{
+  "name": "Behaiv",
+  "version": "0.1.0",
+  "summary": "A short description of Behaiv.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dmi3coder/Behaiv",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dmi3coder": "dmi3coder@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dmi3coder/Behaiv.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Behaiv/Classes/**/*"
+}
