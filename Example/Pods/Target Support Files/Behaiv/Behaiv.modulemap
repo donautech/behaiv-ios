@@ -1,6 +1,0 @@
-framework module Behaiv {
-  umbrella header "Behaiv-umbrella.h"
-
-  export *
-  module * { export * }
-}
